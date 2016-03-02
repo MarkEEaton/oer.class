@@ -1,7 +1,10 @@
-These are the modules for Introduction to Open Education Resources: A 20-minute Course.
+This OER is intended as a brief introduction to OERs for faculty.
 
-The class can be seen online at https://canvas.instructure.com/courses/815700
+The document is written in Markdown for portability. An html version is included. To generate the html from Markdown: 
 
-The files are written in Markdown for portability
+    $ pip install grip
+    $ grip oer.md --export oer-web.html
 
-This class was created by Steven Ovadia, LaGuardia Community College, for the CUNY-wide OER working group: https://commons.gc.cuny.edu/groups/cuny-open-education-resources-oer/
+This material was originally created by Steven Ovadia, LaGuardia Community College, for the CUNY-wide OER working group: https://commons.gc.cuny.edu/groups/cuny-open-education-resources-oer/
+
+Revised by Mark Eaton, Kingsborough Community College, for the KCTL OER group: http://kctlopened.commons.gc.cuny.edu/
