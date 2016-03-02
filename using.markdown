@@ -6,5 +6,3 @@ Because OER encompasses so many types of materials, faculty might find it helpfu
 
 The following two case studies show how OER material can be combined to create a new resource.
 
-![Creative Commons License](http://i.creativecommons.org/l/by-sa/3.0/88x31.png)  
-This work is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/deed.en_US)

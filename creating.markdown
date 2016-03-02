@@ -14,5 +14,3 @@ In general, faculty want to make sure material they wish to share is:
 * 
 This class is hosted in [Canvas](http://www.instructure.com/try-canvas), a free platform that facilitates open classes. These modules are built in wikis, meaning they can be edited by anyone, or only by people with a certain role in the class. Anyone looking to create an entire class, might consider it as a host for materials.
 
-![Creative Commons License](http://i.creativecommons.org/l/by-sa/3.0/88x31.png)  
-This work is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/deed.en_US)

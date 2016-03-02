@@ -39,5 +39,3 @@ Many online research sources, such as indexes, databases, and journals, are avai
 Many people prefer to do their research from home rather than having to go into the library. Most universities provide a way for students, faculty and staff to access resources from off-campus. You can see our list of databases here: <http://libraries.cuny.edu/resource.htm>. You'll authenticate using your CUNY barcode.
 
 
-![Creative Commons License](http://i.creativecommons.org/l/by-sa/3.0/88x31.png)  
-This work is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/deed.en_US)

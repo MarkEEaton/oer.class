@@ -23,5 +23,3 @@ Google can also find Creative Commons materials. Simply do a Google search on yo
 
 ![screenshot of Google Search advanced search usage rights filter](/images/google.advanced.2.gif)
 
-![Creative Commons License](http://i.creativecommons.org/l/by-sa/3.0/88x31.png)  
-This work is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/deed.en_US)
